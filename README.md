@@ -1,6 +1,6 @@
 # Simple Temperature Converter
 
-![An Exercise part of Pacmann Academy!](/assets/logo aset.png)
+![An Exercise part of Pacmann Academy](https://github.com/rafiedrmwn/simple-temp-converter/assets/163059751/9e4c7316-7325-454f-9e8d-212af0cc2904)
 
 This repository contains part of the exercise to make simple temperature converter in python using function.
 Please find the code in the converter path.
