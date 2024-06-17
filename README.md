@@ -1,1 +1,1 @@
-# simple-temp-calculator
+# Simple Temperature Calculator
